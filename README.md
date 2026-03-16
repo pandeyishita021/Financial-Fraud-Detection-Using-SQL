@@ -1,1 +1,1 @@
-# Financial-Fraud-Detection-Using-SQL
+# Financial-Fraud-Detection-Using-SQLSQL-based fraud detection project analyzing financial transaction data using recursive CTEs, window functions, and anomaly detection queries to identify suspicious accounts and transaction patterns.
